@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Nicolas Lierman",
+  "author": "Iky𝖔𝖋𝖋𝖎𝖈𝖎𝖆𝖑ཽ",
   "license": "ISC",
   "dependencies": {
     "pouchdb": "^7.0.0",
